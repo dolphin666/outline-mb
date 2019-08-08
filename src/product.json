@@ -1,0 +1,17 @@
+{
+    "productName": "MakeCode for microbit",
+    "shortName": "makecode-microbit",
+    "targetConfigUrl": "https://makecode.com/api/config/microbit/targetconfig",
+    "allowDriveDeploy": true,
+    "windows": {
+        "updateUrl": "https://makecode.com/api/release/microbit/{{version}}",
+        "appIconPath": "docs/static/electron-icon.ico",
+        "uninstallerIconUrl": null,
+        "loadingGifPath": null
+    },
+    "macos": {
+        "updateUrl": "https://makecode.com/api/release/microbit/{{version}}/mac64?json=1",
+        "appIconPath": "docs/static/electron-icon.icns",
+        "appBundleId": "com.microsoft.makecode-microbit"
+    }
+}

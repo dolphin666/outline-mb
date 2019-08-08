@@ -1,0 +1,23 @@
+{
+  "A Blocks / JavaScript code editor for the micro:bit powered by Microsoft MakeCode.": "由 Microsoft MakeCode 提供技术支持，适用于 micro:bit 的方块/JavaScript 代码编辑器。",
+  "Blocks": "方块",
+  "Buy": "购买",
+  "Click 'Download' to open the {0} app.": "单击“下载”打开 {0} 应用。",
+  "Download": "下载",
+  "Downloading...": "正在下载……",
+  "Go to the old editor": "转到旧版编辑器",
+  "Hardware": "硬件",
+  "Help": "帮助",
+  "JavaScript": "JavaScript",
+  "Microsoft MakeCode for micro:bit": "适用于 micro:bit 的 Microsoft MakeCode",
+  "Music": "音乐",
+  "Ok": "确定",
+  "Pair device": "设备配对",
+  "Pair your {0}": "配对您的 {0}",
+  "Reference": "参考",
+  "Something went wrong...": "出错了...",
+  "Support": "支持",
+  "Turtle": "海龟",
+  "Tutorials": "教程",
+  "makecode.microbit.org": "makecode.microbit.org"
+}
